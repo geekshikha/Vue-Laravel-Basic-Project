@@ -1,8 +1,9 @@
 ## This repository contains a project built using Vue.js & Laravel.
 
 <p align="center">
-<a href="https://vuejs.org/"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" width="400" alt="Vue Logo"></a></p>
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.brandfetch.io/idT-7aLCAj/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed" width="400" alt="Laravel Logo"></a></p>
+<a href="https://vuejs.org/"><img src="https://cdn.brandfetch.io/idT-7aLCAj/theme/dark/logo.svg?c=1bfwsmEH20zzEfSNTed" width="200" alt="Vue Logo"></a></p>
+<p align="center">
+<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo"></a></p>
 
 ## About Vue
 
@@ -19,10 +20,10 @@ Vue.js, a progressive JavaScript framework for building user interfaces. Vue.js 
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
--   [Simple, fast routing engine]
--   [Powerful dependency injection container]
--   Multiple back-ends for [session]
--   Expressive, intuitive [database ORM]
--   Database agnostic [schema migrations]
--   [Robust background job processing]
--   [Real-time event broadcasting]
+-   Simple, fast routing engine
+-   Powerful dependency injection container
+-   Multiple back-ends for session
+-   Expressive, intuitive database ORM
+-   Database agnostic schema migrations
+-   Robust background job processing
+-   Real-time event broadcasting
